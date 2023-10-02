@@ -1,0 +1,13 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "libs/assertj-core-3.23.1.jar",
+        "libs/byte-buddy-1.12.22.jar",
+        "libs/byte-buddy-agent-1.12.22.jar",
+        "libs/junit-jupiter-api-5.9.1.jar",
+        "libs/junit-jupiter-params-5.9.1.jar",
+        "libs/junit-platform-commons-1.9.1.jar",
+        "libs/mockito-core-5.0.0.jar",
+        "libs/objenesis-3.3.jar"
+    ]
+}
